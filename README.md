@@ -60,3 +60,11 @@ information to stakeholders in financial institutions.
 Q10: What programming languages and libraries are commonly used for this type of project?
  Python is commonly used for implementing predictive models in finance. Libraries such as scikit-learn,
 pandas for data manipulation, and Matplotlib/Seaborn for visualization are popular choices.
+
+NAME : SHAKTHI SIVANI G
+
+BATCH: D83
+
+DOMAIN : DATA SCIENCE
+
+LINKED IN URL : www.linkedin.com/in/shakthi-sivani-g-939658294
